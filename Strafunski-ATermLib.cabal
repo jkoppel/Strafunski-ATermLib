@@ -4,7 +4,7 @@
 name:                Strafunski-ATermLib
 version:             1.6.0.1
 synopsis:            An abstract data type designed for the exchange of tree-like data structures
-description:         Library for dealing with ATerms (annotated terms) in Haskell. See https://github.com/cwi-swat/aterms for more information on ATerms.
+description:         Library for dealing with ATerms (annotated terms) in Haskell. See <https://github.com/cwi-swat/aterms> for more information on ATerms.
 license:             BSD3
 license-file:        LICENSE
 author:              Ralf Laemmel, Joost Visser
