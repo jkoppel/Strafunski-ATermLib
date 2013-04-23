@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/ATermLib/tests/simple
+END
+Test.script
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/ATermLib/tests/simple/Test.script
+END
+Test.ds
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ATermLib/tests/simple/Test.ds
+END
+Test.hs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/ATermLib/tests/simple/Test.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ATermLib/tests/simple/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/ATermLib/library
+END
+ATermConversion.hs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/ATermLib/library/ATermConversion.hs
+END
+ATermReadWrite.hs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/ATermLib/library/ATermReadWrite.hs
+END
+ATermLib.hs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/ATermLib/library/ATermLib.hs
+END
+ATermIO.hs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/ATermLib/library/ATermIO.hs
+END
+ATermAbstractSyntax.hs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/ATermLib/library/ATermAbstractSyntax.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/ATermLib/library/Makefile
+END
